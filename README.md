@@ -32,10 +32,3 @@ Writeups for various platforms.
 # Execute on repository root
 mdl .
 ```
-
-## [Vale](https://github.com/errata-ai/vale)
-
-```bash
-# Execute on repository root
-vale .
-```

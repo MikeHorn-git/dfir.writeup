@@ -1,1 +1,3 @@
-.style.rb linguist-vendored=true
+*.php linguist-vendored=true
+*.rb linguist-vendored=true
+*.sh linguist-vendored=true

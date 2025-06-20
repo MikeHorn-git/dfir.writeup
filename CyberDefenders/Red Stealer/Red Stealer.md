@@ -2,10 +2,10 @@
 
 Tools recommended by the author, it's important:
 
-* Whois
-* VirusTotal
-* MalwareBazaar
-* ThreatFox
+- Whois
+- VirusTotal
+- MalwareBazaar
+- ThreatFox
 
 # Q1: Categorizing malware allows for a quicker and easier understanding of the malware, aiding in understanding its distinct behaviors and attack vectors. What's the identified malware's category?
 

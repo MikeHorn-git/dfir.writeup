@@ -1,6 +1,6 @@
 # Q1: To accurately reference and identify the suspicious binary, please provide its SHA256 hash.
 
-12daa34111bb54b3dcbad42305663e44e7e6c3842f015cccbbe6564d9dfd3ea3  Superstar_MemberCard.tiff.exe
+12daa34111bb54b3dcbad42305663e44e7e6c3842f015cccbbe6564d9dfd3ea3 Superstar_MemberCard.tiff.exe
 
 # Q2: When was the binary file originally created, according to its metadata (UTC)?
 
